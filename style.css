@@ -1,0 +1,157 @@
+.container{
+    border: 2px ;
+
+}
+#one{
+    font-size: 50px;
+    color: aqua;
+    text-align: center;
+    background-color:lavender;
+    display: flex;
+}
+body{
+    background-image: urlhttps://hips.hearstapps.com/hmg-prod/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=1.00xw:0.756xh;0,0.0756xh&resize=1200:*);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.sq{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 0px 0px 50px 50px;
+}
+.line{
+    height: 100px;
+    width:200px;
+    border: 2px solid red;
+    border-radius: 50px;
+    border-color: transparent violet transparent transparent;
+}
+
+.container
+{
+    background-color: yellow;
+    height:300px;
+    width:300px;
+    border-radius: 150px;
+    transform: translatey(200px);
+}
+.eye
+{
+    /* background-color: black; */
+    height:40px;
+    width:220px;
+    transform:translateY(80px);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.eye1
+{
+    background-color: rgb(3, 182, 188);
+    height:30px;
+    width:30px;
+    border-radius:25px;
+}
+.b1
+{
+    background-color: black;
+    height:25px;
+    width:25px;
+    border-radius:12.5px;
+    transform: translateX(-2px);
+}
+.a1
+{
+    background-color:white;
+    height: 15px;
+    width: 15px;
+    border-radius:7.5px;
+    transform: translateY(5px);
+}
+.eye2
+{
+    background-color: rgb(3, 182, 188);
+    height:30px;
+    width:30px;
+    border-radius:25px;
+}
+.b2
+{
+    background-color: black;
+    height:25px;
+    width:25px;
+    border-radius:12.5px;
+    transform: translateX(-2px);
+}
+.a2
+{
+    background-color:white;
+    height: 15px;
+    width: 15px;
+    border-radius:7.5px;
+    transform: translateY(5px);
+}
+.che
+{
+    /* background-color:rgb(17, 16, 16); */
+    height:55px;
+    width: 300px;
+    transform: translateY(100px);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ch1
+{
+    background-color: rgb(160, 107, 107);
+    height:50px;
+    width:60px;
+    transform: translateX(-20px);
+    border-radius: 25px;
+    filter: blur(8px);
+}
+.ch2
+{
+    background-color:rgb(160, 107, 107);
+    height:50px;
+    width:60px;
+    transform: translateX(20px);
+    border-radius: 25px;
+    filter: blur(8px);
+}
+.nos
+{
+    background-color: black;
+    height: 30px;
+    width:15px;
+    border-radius:80%;
+    transform:translateY(50px);
+}
+
+.mou
+{
+    background-color:rgb(218, 43, 43);
+    height:60px;
+    width: 120px;
+    transform: translateY(80px);
+    border-radius: 10px 10px 60px 60px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    overflow: hidden;
+}
+
+.mou1
+{
+    background-color: rgb(246, 124, 124);
+    height: 50px;
+    width:60px;
+    border-radius: 60px 60px 15px 15px ;
+    transform: translateY(20px);
+}
+
+
+
+
